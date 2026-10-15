@@ -1,9 +1,22 @@
 {
   "name": "wanderly",
-  "version": "1.0.0",
-  "description": "Travel website with Home, Destination, Itinerary and About Us pages",
+  "version": "2.0.0",
+  "type": "module",
   "scripts": {
-    "start": "npx serve . -l 3000"
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
   },
-  "license": "MIT"
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5",
+    "dotenv": "^16.4.7",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^10.1.4"
+  },
+  "engines": {
+    "node": ">=20"
+  }
 }
