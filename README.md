@@ -1,6 +1,9 @@
 # Wanderly: Travel Website
+Wanderly is a web application that helps users explore Philippine destinations and organize daily travel activities. It provides one place to select a destination, review a suggested itinerary and save a customized travel plan. The application belongs to the Travel category and was developed using MongoDB, Express, Vue and Node.js.
+Travelers often collect destination information from several sources and keep their plans in separate notes. This can make it difficult to track activities, compare estimated costs and revise a trip. Wanderly addresses these organizational issues through destination browsing and editable itineraries. Its four pages are Home, Destination, Itinerary and About Us.
 
 Static site with four pages: `index.html` (Home), `destination.html`, `itinerary.html`, `about.html`.
+
 
 ## Project structure
 
