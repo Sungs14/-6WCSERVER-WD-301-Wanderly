@@ -1,0 +1,9 @@
+{
+  "name": "wanderly",
+  "version": "1.0.0",
+  "description": "Travel website with Home, Destination, Itinerary and About Us pages",
+  "scripts": {
+    "start": "npx serve . -l 3000"
+  },
+  "license": "MIT"
+}
