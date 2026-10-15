@@ -1,0 +1,182 @@
+[
+  {
+    "id": "palawan",
+    "name": "El Nido, Palawan",
+    "category": "beach",
+    "description": "Island hopping and lagoons.",
+    "budget": 22000,
+    "image": "p1",
+    "days": [
+      {
+        "title": "Arrive in Puerto Princesa",
+        "activities": [
+          "Explore the Baywalk"
+        ]
+      },
+      {
+        "title": "Road to El Nido",
+        "activities": [
+          "Sunset at Las Caba\u00f1as Beach"
+        ]
+      },
+      {
+        "title": "Island Hopping Tour A",
+        "activities": [
+          "Kayak at Big Lagoon"
+        ]
+      },
+      {
+        "title": "Nacpan Beach",
+        "activities": [
+          "Enjoy a free afternoon"
+        ]
+      },
+      {
+        "title": "Fly home",
+        "activities": [
+          "Souvenir stop and airport transfer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "siargao",
+    "name": "Siargao",
+    "category": "beach",
+    "description": "Surf and tidal pools.",
+    "budget": 18000,
+    "image": "p2",
+    "days": [
+      {
+        "title": "Arrive in Siargao",
+        "activities": [
+          "Explore General Luna"
+        ]
+      },
+      {
+        "title": "Cloud 9",
+        "activities": [
+          "Book a beginner surf lesson"
+        ]
+      },
+      {
+        "title": "Island hopping",
+        "activities": [
+          "Visit Daku, Guyam and Naked Island"
+        ]
+      },
+      {
+        "title": "Explore the island",
+        "activities": [
+          "Visit Magpupungko and fly home"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "boracay",
+    "name": "Boracay",
+    "category": "beach",
+    "description": "White Beach and watersports.",
+    "budget": 15000,
+    "image": "p3",
+    "days": [
+      {
+        "title": "Arrive in Boracay",
+        "activities": [
+          "Sunset at White Beach"
+        ]
+      },
+      {
+        "title": "Island activities",
+        "activities": [
+          "Swimming and watersports"
+        ]
+      },
+      {
+        "title": "Free morning",
+        "activities": [
+          "Souvenir shopping and departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "banaue",
+    "name": "Banaue, Ifugao",
+    "category": "mountain",
+    "description": "Rice terraces and village treks.",
+    "budget": 9000,
+    "image": "p4",
+    "days": [
+      {
+        "title": "Arrive in Banaue",
+        "activities": [
+          "Visit terrace viewpoints"
+        ]
+      },
+      {
+        "title": "Batad trek",
+        "activities": [
+          "Arrange a local guide"
+        ]
+      },
+      {
+        "title": "Village visit",
+        "activities": [
+          "Return home"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sagada",
+    "name": "Sagada",
+    "category": "mountain",
+    "description": "Caves and cool mountain air.",
+    "budget": 9500,
+    "image": "p5",
+    "days": [
+      {
+        "title": "Arrive in Sagada",
+        "activities": [
+          "Explore the town"
+        ]
+      },
+      {
+        "title": "Cave tour",
+        "activities": [
+          "Book a local guide"
+        ]
+      },
+      {
+        "title": "Sunrise viewpoint",
+        "activities": [
+          "Return home"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vigan",
+    "name": "Vigan, Ilocos Sur",
+    "category": "city",
+    "description": "Heritage streets and local food.",
+    "budget": 7000,
+    "image": "p6",
+    "days": [
+      {
+        "title": "Arrive in Vigan",
+        "activities": [
+          "Walk along Calle Crisologo"
+        ]
+      },
+      {
+        "title": "Heritage and food tour",
+        "activities": [
+          "Return home"
+        ]
+      }
+    ]
+  }
+]
